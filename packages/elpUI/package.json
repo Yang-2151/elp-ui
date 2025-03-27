@@ -21,7 +21,7 @@
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Yang-2151/elp-ui.git"
+    "url": "https://github.com/Yang-2151/elp-ui.git"
   },
   "scripts": {
     "release": "release-it"
