@@ -1,0 +1,29 @@
+{
+  "name": "elp-ui",
+  "version": "1.0.23",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib",
+    "package.json"
+  ],
+  "keywords": [
+    "elpUI",
+    "基于elementPlus的vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "GuoYang",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Yang-2151/elp-ui.git"
+  },
+  "scripts": {
+    "release": "release-it"
+  }
+}

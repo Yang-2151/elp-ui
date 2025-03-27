@@ -1,0 +1,12 @@
+{
+  "name": "@elp-ui/components",
+  "version": "1.0.22",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "GuoYang",
+  "license": "MIT"
+}
